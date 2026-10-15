@@ -3,7 +3,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.mobiera.libs</groupId>
    <artifactId>aircast-api-javax</artifactId>
-   <version>1.2</version>
+   <version>1.3</version>
    <name>Aircast API Javax</name>
    <description>Client Library for Mobiera Aircast Containers (Javax dependencies)</description>
    <url>https://github.com/mobiera/aircast-api-javax</url>
